@@ -7,4 +7,7 @@ Questo repository contiene la consegna per l'esercitazione pratica sulle infrast
 
 ## Presentazione Dinamica (Prezi)
 L'illustrazione dettagliata dei concetti e della struttura dell'infrastruttura è stata realizzata tramite una presentazione dinamica su Prezi. La presentazione sfrutta lo zoom per passare dai concetti generali ai dettagli tecnici divisi in due aree tematiche principali (L'Ambiente di Lavoro e la Gestione del Codice).
+
+Presentazione Prezi
+Puoi visualizzare la presentazione dinamica cliccando sul link sottostante:
 https://prezi.com/view/MM3jh2rB7eOQFjJFz2TL/?referral_token=w4ebmJlnB3FN
